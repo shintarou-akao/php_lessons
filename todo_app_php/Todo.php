@@ -2,11 +2,6 @@
 
 namespace MyApp;
 
-//CSRF対策
-//Token発行してSessionに格納
-//フォームからTokenを発行、送信
-//Check
-
 class Todo {
   private $_db;
 
